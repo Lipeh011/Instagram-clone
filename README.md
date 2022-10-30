@@ -1,4 +1,4 @@
-<img src="https://tm.ibxk.com.br/2022/02/08/08183010629410.jpg?ims=1120x420"  img/>.
+<img src="https://tm.ibxk.com.br/2022/02/08/08183010629410.jpg?ims=1120x420"  img/>
 <br>
 <h1> Clone Instagram </h1>
 <h3>🔴 Objetivo de desenvolver a Interface do instagram atraves do uso do React.</h3>
